@@ -9,8 +9,7 @@ AI Image Analyzer is a powerful application that combines cutting-edge AI models
 
 ## How It Works
 1. **Upload an Image**: Select any image in supported formats (PNG, JPG, JPEG).
-   - *Screenshot Placeholder: Uploading an Image*
-     ![Uploading an Image](path/to/screenshot1.png)
+     ![Uploading an Image](Step1.png)
 2. **Choose a Model**: Pick from available AI models for custom analysis.
    - *Screenshot Placeholder: Model Selection*
      ![Model Selection](path/to/screenshot2.png)
@@ -24,7 +23,7 @@ AI Image Analyzer is a powerful application that combines cutting-edge AI models
 ## Screenshots
 Below are placeholders for key parts of the application:
 1. Uploading an Image:  
-   ![Uploading an Image](path/to/screenshot1.png)
+   ![Uploading an Image](Step1.png)
 
 2. Selecting a Model:  
    ![Selecting a Model](path/to/screenshot2.png)
