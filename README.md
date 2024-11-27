@@ -11,11 +11,11 @@ AI Image Analyzer is a powerful application that combines cutting-edge AI models
 1. **Upload an Image**: Select any image in supported formats (PNG, JPG, JPEG).
      ![Uploading an Image](Step1.png)
 2. **Choose a Model**: Pick from available AI models for custom analysis.
-   - *Screenshot Placeholder: Model Selection*
+   ![Choosing a Model](Step2.png)
 3. **Ask a Question**: Interact with the AI chatbot to gain a deeper understanding of the image.
      ![Asking a Question](Step3.png)
 4. **Receive Insights**: Get detailed and accurate responses from the AI based on your questions.
-     ![Analyzed Insights](Step3.png)
+     ![Analyzed Insights](Step4.png)
 
 
 This project leverages cutting-edge AI to provide an intuitive, interactive, and highly engaging image analysis experience.
